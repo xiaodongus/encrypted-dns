@@ -22,7 +22,7 @@
 			<key>PayloadDescription</key>
 			<string>配置设备以使用666加密DNS</string>
 			<key>PayloadDisplayName</key>
-			<string>666 DOH</string>
+			<string>666DNS</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
 			<key>PayloadType</key>
@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>将 666DNS 添加到基于Big Sur和iOS14 的系统</string>
+	<string>将 666DNS 添加到基于 Big Sur 和 iOS14 的系统</string>
 	<key>PayloadDisplayName</key>
-	<string>666 DOH</string>
+	<string>666DNS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
