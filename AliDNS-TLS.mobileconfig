@@ -22,7 +22,7 @@
 			<key>PayloadDescription</key>
 			<string>Configures device to use AliDNS Encrypted DNS over TLS</string>
 			<key>PayloadDisplayName</key>
-			<string>AliDNS over TLS</string>
+			<string>Ali DNS over TLS</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
 			<key>PayloadType</key>
@@ -38,7 +38,7 @@
 	<key>PayloadDescription</key>
 	<string>Adds the AliDNS to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>AliDNS DNS over TLS</string>
+	<string>Ali DNS over TLS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
