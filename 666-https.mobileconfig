@@ -11,18 +11,18 @@
 				<string>HTTPS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>2a07:a8c0::</string>
-					<string>2a07:a8c1::</string>
-					<string>45.90.30.0</string>
 					<string>45.90.28.0</string>
+					<string>2a07:a8c0::</string>
+					<string>45.90.30.0</string>
+					<string>2a07:a8c1::</string>
 				</array>
 				<key>ServerURL</key>
 				<string>https://dns.nextdns.io/d5785d</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use 666 Encrypted DNS over HTTPS</string>
+			<string>配置设备以使用666加密DNS</string>
 			<key>PayloadDisplayName</key>
-			<string>666 DNS over HTTPS</string>
+			<string>666 DOH</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
 			<key>PayloadType</key>
@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the 666 to Big Sur and iOS 14 based systems</string>
+	<string>将 666DNS 添加到基于Big Sur和iOS14 的系统</string>
 	<key>PayloadDisplayName</key>
-	<string>666 DNS over HTTPS</string>
+	<string>666 DOH</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
