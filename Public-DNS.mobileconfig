@@ -7,13 +7,13 @@
   <key>PayloadDescription</key>
   <string>Enable Public-DNS</string>
   <key>PayloadIdentifier</key>
-  <string>io.nextdns.dns</string>
+  <string>cc.lxd.publicdns</string>
   <key>PayloadScope</key>
   <string>System</string>
   <key>PayloadType</key>
   <string>Configuration</string>
   <key>PayloadUUID</key>
-  <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+  <string>c515e823-a587-42fc-8b27-f6ba919f13fb</string>
   <key>PayloadVersion</key>
   <integer>1</integer>
   <key>PayloadContent</key>
@@ -36,9 +36,9 @@
       <key>PayloadType</key>
       <string>com.apple.dnsSettings.managed</string>
       <key>PayloadIdentifier</key>
-      <string>io.nextdns.dns.dnsSettings.managed</string>
+      <string>cc.lxd.publicdns.dnsSettings.managed</string>
       <key>PayloadUUID</key>
-      <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.a3393b</string>
+      <string>e2c999ab-ffee-4bf0-bc38-a79467a1608e</string>
       <key>PayloadDisplayName</key>
       <string>Public-DNS</string>
       <key>PayloadVersion</key>
