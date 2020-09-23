@@ -24,11 +24,11 @@
 			<key>PayloadDisplayName</key>
 			<string>666DNS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
+			<string>cc.lxd.66dns.dnsSettings.managed</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>35d5c8a0-afa6-4b36-a9fe-099a997b44ad</string>
+			<string>70f835a9-527a-456b-8fdd-131f8c35f0fa</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
@@ -40,13 +40,13 @@
 	<key>PayloadDisplayName</key>
 	<string>666DNS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>cc.lxd.66dns</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>A4475135-633A-4F15-A79B-BE15093DC97A</string>
+	<string>cf952681-709e-456c-8d20-c2c01fedd140</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
