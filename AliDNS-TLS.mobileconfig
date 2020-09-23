@@ -24,11 +24,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Ali DNS over TLS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
+			<string>cc.lxd.alidot.dnsSettings.managed</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>35d5c8a0-afa6-4b36-a9fe-099a997b44ad</string>
+			<string>53456719-458f-4940-8741-83414b22f5ae</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
@@ -40,13 +40,13 @@
 	<key>PayloadDisplayName</key>
 	<string>Ali DNS over TLS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>cc.lxd.alidot</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>32E01895-86AB-40AE-ACD2-4460D584EA35</string>
+	<string>a389c299-c229-4e35-9cba-75c3a7bc268b</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
