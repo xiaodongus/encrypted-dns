@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>TLS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>101.199.113.208</string>
+					<string>180.163.249.75</string>
+					<string>36.99.170.86</string>
+					<string>221.181.72.233</string>
+				</array>
+				<key>ServerName</key>
+				<string>dot.360.cn</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures device to use 360 Encrypted DNS over TLS</string>
+			<key>PayloadDisplayName</key>
+			<string>360 DNS over TLS</string>
+			<key>PayloadIdentifier</key>
+			<string>cc.lxd.360dot.dnsSettings.managed</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>f31d2866-a7e0-4778-a935-b34c45b94a8e</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitDisablement</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Adds the 360 to Big Sur and iOS 14 based systems</string>
+	<key>PayloadDisplayName</key>
+	<string>360 DNS over TLS</string>
+	<key>PayloadIdentifier</key>
+	<string>cc.lxd.360dot</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8a93af21-3e56-4053-832a-5f9bbf1c594d</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
