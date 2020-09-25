@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>TLS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>45.90.28.0</string>
+					<string>2a07:a8c0::</string>
+					<string>45.90.30.0</string>
+					<string>2a07:a8c1::</string>
+				</array>
+				<key>ServerName</key>
+				<string>d5785d.dns.nextdns.io</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>配置设备以使用666加密DNS</string>
+			<key>PayloadDisplayName</key>
+			<string>666 DoT</string>
+			<key>PayloadIdentifier</key>
+			<string>cc.lxd.666dot.dnsSettings.managed</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>f68d4009-3859-45f5-b2ef-966b9ff3019e</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitDisablement</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>配置设备以使用666加密DNS</string>
+	<key>PayloadDisplayName</key>
+	<string>666 DoT</string>
+	<key>PayloadIdentifier</key>
+	<string>cc.lxd.666dot</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>da48c793-6319-41b1-8693-52f792923c19</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
