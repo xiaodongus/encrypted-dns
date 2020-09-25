@@ -1,6 +1,6 @@
-# For personal use project, please do not share and distribute, thank you!
+# iOS14 DoH and DoT profiles
 
-Configuration profiles for DNS HTTPS and DNS over TLS
+For personal use project, please do not share and distribute, thank you!
 
 ------
 
