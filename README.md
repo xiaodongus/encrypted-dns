@@ -1,8 +1,9 @@
 # iOS14 DoH and DoT profiles
 
-For personal use project, please do not share and distribute, thank you!
+Personal use items, please do not share and forward, thank you!
 
 ------
 
-CDN global accelerated
+CDN global acceleration
+
 https://cdn.jsdelivr.net/gh/xiaodongus/encrypted-dns@latest/
