@@ -12,6 +12,7 @@
 				<key>ServerAddresses</key>
 				<array>
 					<string>162.14.21.178</string>
+					<string>162.14.21.56</string>
 				</array>
 				<key>ServerName</key>
 				<string>dns.pub</string>
