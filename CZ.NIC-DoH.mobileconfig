@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>185.43.135.1</string>
+					<string>193.17.47.1</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://odvr.nic.cz/doh</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures device to use CZ.NIC Encrypted DNS over TLS</string>
+			<key>PayloadDisplayName</key>
+			<string>CZ.NIC DNS over HTTPS</string>
+			<key>PayloadIdentifier</key>
+			<string>cc.lxd.cznic.dnsSettings.managed</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>7a6e3952-aa0f-4e44-9fef-6302387ef83d</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitDisablement</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Adds the CZ.NIC to Big Sur and iOS 14 based systems</string>
+	<key>PayloadDisplayName</key>
+	<string>CZ.NIC DNS over HTTPS</string>
+	<key>PayloadIdentifier</key>
+	<string>cc.lxd.cznic</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>7000511c-fe44-443f-9328-69a82aa2740e</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
