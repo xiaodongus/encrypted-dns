@@ -17,18 +17,18 @@
 					<string>1.0.0.1</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://cloudflare-dns.com/dns-query</string>
+				<string>https://1.0.0.1/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Cloudflare Encrypted DNS over TLS</string>
 			<key>PayloadDisplayName</key>
 			<string>Cloudflare DNS over HTTPS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
+			<string>cc.lxd.1111dns.dnsSettings.managed</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>35d5c8a0-afa6-4b36-a9fe-099a997b44ad</string>
+			<string>38426ba7-01d3-43f6-8442-0a1270a9de35</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
@@ -40,13 +40,13 @@
 	<key>PayloadDisplayName</key>
 	<string>Cloudflare DNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>cc.lxd.1111dns</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>A4475135-633A-4F15-A79B-BE15093DC97A</string>
+	<string>0a349428-e96a-4838-b043-e7fe1893ad2c</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
