@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>119.27.179.21</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://doh.lxd.ink/dns-query</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>配置设备以使用Lxd加密DNS</string>
+			<key>PayloadDisplayName</key>
+			<string>LxdDNS</string>
+			<key>PayloadIdentifier</key>
+			<string>cc.lxd.Lxddns.dnsSettings.managed</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>8c008dd0-c91d-4cd2-aedb-a27116717b53</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitDisablement</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>将 LxdDNS 添加到基于 Big Sur 和 iOS14 的系统</string>
+	<key>PayloadDisplayName</key>
+	<string>LxdDNS</string>
+	<key>PayloadIdentifier</key>
+	<string>cc.lxd.Lxddns</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>54a8df0e-a1ea-4205-a3b5-f440e5c68d04</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
