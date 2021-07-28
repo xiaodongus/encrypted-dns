@@ -17,12 +17,12 @@
 					<string>1.0.0.1</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://1.0.0.1/dns-query</string>
+				<string>https://cloudflare-dns.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Cloudflare Encrypted DNS over TLS</string>
 			<key>PayloadDisplayName</key>
-			<string>Cloudflare DNS over HTTPS</string>
+			<string>CloudflareDNS</string>
 			<key>PayloadIdentifier</key>
 			<string>cc.lxd.1111dns.dnsSettings.managed</string>
 			<key>PayloadType</key>
@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Cloudflare DNS to Big Sur and iOS 14 based systems</string>
+	<string>Adds the CloudflareDNS to iOS or MacOS</string>
 	<key>PayloadDisplayName</key>
-	<string>Cloudflare DNS over HTTPS</string>
+	<string>CloudflareDNS</string>
 	<key>PayloadIdentifier</key>
 	<string>cc.lxd.1111dns</string>
 	<key>PayloadRemovalDisallowed</key>
