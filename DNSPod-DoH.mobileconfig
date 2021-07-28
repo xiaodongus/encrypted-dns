@@ -20,7 +20,7 @@
 			<key>PayloadDescription</key>
 			<string>Configures device to use DNSPod Encrypted DNS over TLS</string>
 			<key>PayloadDisplayName</key>
-			<string>DNSPod DNS over HTTPS</string>
+			<string>DNSPodDNS</string>
 			<key>PayloadIdentifier</key>
 			<string>cc.lxd.dnspod.dnsSettings.managed</string>
 			<key>PayloadType</key>
@@ -34,9 +34,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the DNSPod to Big Sur and iOS 14 based systems</string>
+	<string>Adds the DNSPod to iOS </string>
 	<key>PayloadDisplayName</key>
-	<string>DNSPod DNS over HTTPS</string>
+	<string>DNSPodDNS</string>
 	<key>PayloadIdentifier</key>
 	<string>cc.lxd.dnspod</string>
 	<key>PayloadRemovalDisallowed</key>
