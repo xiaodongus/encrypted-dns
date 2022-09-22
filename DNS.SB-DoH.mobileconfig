@@ -9,14 +9,8 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
-				<key>ServerAddresses</key>
-				<array>
-					<string>172.67.144.238</string>
-					<string>104.31.69.101</string>
-					<string>104.31.68.101</string>
-				</array>
 				<key>ServerURL</key>
-				<string>https://doh.dns.sb/dns-query</string>
+				<string>https://doh.sb/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use DNS.SB Encrypted DNS over TLS</string>
