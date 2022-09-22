@@ -9,10 +9,6 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
-				<key>ServerAddresses</key>
-				<array>
-          <string>115.159.131.230</string>
-				</array>
 				<key>ServerURL</key>
 				<string>https://dns.rubyfish.cn/dns-query</string>
 			</dict>
