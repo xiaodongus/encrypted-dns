@@ -13,9 +13,9 @@
 				<string>https://hk-hkg.doh.sb/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use DNS.SB Encrypted DNS over TLS</string>
+			<string>Configures device to use DNS.SB Encrypted DoH</string>
 			<key>PayloadDisplayName</key>
-			<string>DNS.SB DNS over HTTPS</string>
+			<string>DNS.SB</string>
 			<key>PayloadIdentifier</key>
 			<string>cc.lxd.dnssb.dnsSettings.managed</string>
 			<key>PayloadType</key>
@@ -29,9 +29,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the DNS.SB to Big Sur and iOS 14 based systems</string>
+	<string>Adds the DNS.SB</string>
 	<key>PayloadDisplayName</key>
-	<string>DNS.SB DNS over HTTPS</string>
+	<string>DNS.SB</string>
 	<key>PayloadIdentifier</key>
 	<string>cc.lxd.dnssb</string>
 	<key>PayloadRemovalDisallowed</key>
